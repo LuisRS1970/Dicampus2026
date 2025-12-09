@@ -35,7 +35,7 @@ De Escritorio (PC): Para computadoras personales, con interfaces gráficas robus
 
  ## Ejemplos Comunes: 
 
- Windows: Dominante en PCs, adaptable a servidores y dispositivos táctiles (Windows Mobile, IoT).
- macOS: Exclusivo de Apple, conocido por su estabilidad y diseño.
- Linux: Código abierto, base de muchas distribuciones (Ubuntu, Fedora) y sistemas de servidor y embebidos.
- Android / iOS: Líderes en el mercado móvil, con ecosistemas de aplicaciones y servicios.
+- Windows: Dominante en PCs, adaptable a servidores y dispositivos táctiles (Windows Mobile, IoT).
+- macOS: Exclusivo de Apple, conocido por su estabilidad y diseño.
+- Linux: Código abierto, base de muchas distribuciones (Ubuntu, Fedora) y sistemas de servidor y embebidos.
+- Android / iOS: Líderes en el mercado móvil, con ecosistemas de aplicaciones y servicios.
