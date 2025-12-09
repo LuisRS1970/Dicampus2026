@@ -18,20 +18,20 @@
 
 ## Por Entorno y Dispositivo:
 
-De Escritorio (PC): Para computadoras personales, con interfaces gráficas robustas. Ejemplos: Windows, macOS, Linux (Ubuntu, Fedora).
- Móviles: Optimizados para pantallas táctiles, batería y sensores en dispositivos portátiles. Ejemplos: Android, iOS.
- De Servidor: Gestionan recursos y servicios en redes, permitiendo compartir archivos, impresoras, etc. Ejemplos: Windows Server, Linux (Red Hat, Debian).
- Embebidos/Integrados: Para dispositivos con recursos limitados, como electrodomésticos, routers, sistemas automotrices. Ejemplos: Android Things, sistemas en IoT.
- Mainframe: Para sistemas de gran capacidad y procesamiento, como IBM z/OS, usados en grandes corporaciones.
+- De Escritorio (PC): Para computadoras personales, con interfaces gráficas robustas. Ejemplos: Windows, macOS, Linux (Ubuntu, Fedora).
+- Móviles: Optimizados para pantallas táctiles, batería y sensores en dispositivos portátiles. Ejemplos: Android, iOS.
+- De Servidor: Gestionan recursos y servicios en redes, permitiendo compartir archivos, impresoras, etc. Ejemplos: Windows Server, Linux (Red Hat, Debian).
+- Embebidos/Integrados: Para dispositivos con recursos limitados, como electrodomésticos, routers, sistemas automotrices. Ejemplos: Android Things, sistemas en IoT.
+- Mainframe: Para sistemas de gran capacidad y procesamiento, como IBM z/OS, usados en grandes corporaciones.
 
  ## Por Funcionalidad y Modo de Operación:
 
- Monotarea/Multitarea: Ejecuta una sola tarea o múltiples programas simultáneamente 
- Monousuario/Multiusuario: Permite un solo usuario o varios usuarios simultáneamente, respectivamente (ej. Linux, Windows Server).
- De Tiempo Real (RTOS): Responden de inmediato a eventos críticos, vitales en control industrial, aviación. Ejemplos: VxWorks, QNX.
- De Red (NOS): Facilitan la comunicación y gestión de recursos en una red.
- Distribuido: Coordina múltiples computadoras para que trabajen como un único sistema.
- Por Lotes (Batch): Ejecuta trabajos en secuencia sin intervención humana directa.
+- Monotarea/Multitarea: Ejecuta una sola tarea o múltiples programas simultáneamente 
+- Monousuario/Multiusuario: Permite un solo usuario o varios usuarios simultáneamente, respectivamente (ej. Linux, Windows Server).
+- De Tiempo Real (RTOS): Responden de inmediato a eventos críticos, vitales en control industrial, aviación. Ejemplos: VxWorks, QNX.
+- De Red (NOS): Facilitan la comunicación y gestión de recursos en una red.
+- Distribuido: Coordina múltiples computadoras para que trabajen como un único sistema.
+- Por Lotes (Batch): Ejecuta trabajos en secuencia sin intervención humana directa.
 
  ## Ejemplos Comunes: 
 
