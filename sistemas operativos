@@ -1,6 +1,6 @@
  SISTEMAS OPERATIVOS 
 
-Qué es un sistema operativo
+Qué es un sistema operativo 
 
  Un sistema operativo (SO) es el software fundamental que gestiona los recursos de hardware de una computadora, 
  actuando como intermediario entre el usuario y las aplicaciones. 
@@ -26,14 +26,14 @@ De Escritorio (PC): Para computadoras personales, con interfaces gráficas robus
 
  Por Funcionalidad y Modo de Operación:
 
- Monotarea/Multitarea: Ejecuta una sola tarea o múltiples programas simultáneamente.
+ Monotarea/Multitarea: Ejecuta una sola tarea o múltiples programas simultáneamente 
  Monousuario/Multiusuario: Permite un solo usuario o varios usuarios simultáneamente, respectivamente (ej. Linux, Windows Server).
  De Tiempo Real (RTOS): Responden de inmediato a eventos críticos, vitales en control industrial, aviación. Ejemplos: VxWorks, QNX.
  De Red (NOS): Facilitan la comunicación y gestión de recursos en una red.
  Distribuido: Coordina múltiples computadoras para que trabajen como un único sistema.
  Por Lotes (Batch): Ejecuta trabajos en secuencia sin intervención humana directa.
 
- Ejemplos Comunes:
+ Ejemplos Comunes: 
 
  Windows: Dominante en PCs, adaptable a servidores y dispositivos táctiles (Windows Mobile, IoT).
  macOS: Exclusivo de Apple, conocido por su estabilidad y diseño.
