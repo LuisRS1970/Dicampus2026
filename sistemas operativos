@@ -1,40 +1,41 @@
-                                                                                  # SISTEMAS OPERATIVOS
+                                                                                   SISTEMAS OPERATIVOS
 
-## Qué es un sistema operativo
-## Un sistema operativo (SO) es el software fundamental que gestiona los recursos de hardware de una computadora, 
-## actuando como intermediario entre el usuario y las aplicaciones. 
-## Su función principal es coordinar el funcionamiento de todos los componentes de la máquina (como la CPU, la memoria y el almacenamiento)
-## y proporcionar una plataforma para que otros programas puedan ejecutarse.
-## Sin un SO, un dispositivo electrónico sería inútil, ya que no se podrían utilizar aplicaciones como navegadores web, procesadores de texto o juegos.  
+Qué es un sistema operativo
 
-## Tipos de sistemas operativos
+ Un sistema operativo (SO) es el software fundamental que gestiona los recursos de hardware de una computadora, 
+ actuando como intermediario entre el usuario y las aplicaciones. 
+ Su función principal es coordinar el funcionamiento de todos los componentes de la máquina (como la CPU, la memoria y el almacenamiento)
+ y proporcionar una plataforma para que otros programas puedan ejecutarse.
+ Sin un SO, un dispositivo electrónico sería inútil, ya que no se podrían utilizar aplicaciones como navegadores web, procesadores de texto o juegos.  
 
-## Los sistemas operativos (SO) se clasifican por su función y entorno,
-## incluyendo los de escritorio (Windows, macOS, Linux) para PC, móviles (Android, iOS) para smartphones, 
-## de servidor para gestión de redes (Windows Server, Linux), embebidos para dispositivos específicos (IoT, routers),
-## y de tiempo real (RTOS) para control crítico, además de categorías funcionales como monotarea/multitarea, monousuario/multiusuario,
-## y distribuidos/en red, cada uno adaptado a necesidades distintas de procesamiento y gestión de recursos. 
+ Tipos de sistemas operativos
 
-## Por Entorno y Dispositivo:
+ Los sistemas operativos (SO) se clasifican por su función y entorno,
+ incluyendo los de escritorio (Windows, macOS, Linux) para PC, móviles (Android, iOS) para smartphones, 
+ de servidor para gestión de redes (Windows Server, Linux), embebidos para dispositivos específicos (IoT, routers),
+ y de tiempo real (RTOS) para control crítico, además de categorías funcionales como monotarea/multitarea, monousuario/multiusuario,
+ y distribuidos/en red, cada uno adaptado a necesidades distintas de procesamiento y gestión de recursos. 
 
-## De Escritorio (PC): Para computadoras personales, con interfaces gráficas robustas. Ejemplos: Windows, macOS, Linux (Ubuntu, Fedora).
-## Móviles: Optimizados para pantallas táctiles, batería y sensores en dispositivos portátiles. Ejemplos: Android, iOS.
-## De Servidor: Gestionan recursos y servicios en redes, permitiendo compartir archivos, impresoras, etc. Ejemplos: Windows Server, Linux (Red Hat, Debian).
-## Embebidos/Integrados: Para dispositivos con recursos limitados, como electrodomésticos, routers, sistemas automotrices. Ejemplos: Android Things, sistemas en IoT.
-## Mainframe: Para sistemas de gran capacidad y procesamiento, como IBM z/OS, usados en grandes corporaciones. 
+ Por Entorno y Dispositivo:
 
-## Por Funcionalidad y Modo de Operación:
+ De Escritorio (PC): Para computadoras personales, con interfaces gráficas robustas. Ejemplos: Windows, macOS, Linux (Ubuntu, Fedora).
+ Móviles: Optimizados para pantallas táctiles, batería y sensores en dispositivos portátiles. Ejemplos: Android, iOS.
+ De Servidor: Gestionan recursos y servicios en redes, permitiendo compartir archivos, impresoras, etc. Ejemplos: Windows Server, Linux (Red Hat, Debian).
+ Embebidos/Integrados: Para dispositivos con recursos limitados, como electrodomésticos, routers, sistemas automotrices. Ejemplos: Android Things, sistemas en IoT.
+ Mainframe: Para sistemas de gran capacidad y procesamiento, como IBM z/OS, usados en grandes corporaciones. 
 
-## Monotarea/Multitarea: Ejecuta una sola tarea o múltiples programas simultáneamente.
-## Monousuario/Multiusuario: Permite un solo usuario o varios usuarios simultáneamente, respectivamente (ej. Linux, Windows Server).
-## De Tiempo Real (RTOS): Responden de inmediato a eventos críticos, vitales en control industrial, aviación. Ejemplos: VxWorks, QNX.
-## De Red (NOS): Facilitan la comunicación y gestión de recursos en una red.
-## Distribuido: Coordina múltiples computadoras para que trabajen como un único sistema.
-## Por Lotes (Batch): Ejecuta trabajos en secuencia sin intervención humana directa. 
+ Por Funcionalidad y Modo de Operación:
 
-## Ejemplos Comunes:
+ Monotarea/Multitarea: Ejecuta una sola tarea o múltiples programas simultáneamente.
+ Monousuario/Multiusuario: Permite un solo usuario o varios usuarios simultáneamente, respectivamente (ej. Linux, Windows Server).
+ De Tiempo Real (RTOS): Responden de inmediato a eventos críticos, vitales en control industrial, aviación. Ejemplos: VxWorks, QNX.
+ De Red (NOS): Facilitan la comunicación y gestión de recursos en una red.
+ Distribuido: Coordina múltiples computadoras para que trabajen como un único sistema.
+ Por Lotes (Batch): Ejecuta trabajos en secuencia sin intervención humana directa. 
 
-## Windows: Dominante en PCs, adaptable a servidores y dispositivos táctiles (Windows Mobile, IoT).
-## macOS: Exclusivo de Apple, conocido por su estabilidad y diseño.
-## Linux: Código abierto, base de muchas distribuciones (Ubuntu, Fedora) y sistemas de servidor y embebidos.
-## Android / iOS: Líderes en el mercado móvil, con ecosistemas de aplicaciones y servicios. 
+ Ejemplos Comunes:
+
+ Windows: Dominante en PCs, adaptable a servidores y dispositivos táctiles (Windows Mobile, IoT).
+ macOS: Exclusivo de Apple, conocido por su estabilidad y diseño.
+ Linux: Código abierto, base de muchas distribuciones (Ubuntu, Fedora) y sistemas de servidor y embebidos.
+ Android / iOS: Líderes en el mercado móvil, con ecosistemas de aplicaciones y servicios. 
