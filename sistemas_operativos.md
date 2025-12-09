@@ -1,6 +1,6 @@
- SISTEMAS OPERATIVOS 
+# SISTEMAS OPERATIVOS 
 
-Qué es un sistema operativo 
+## Qué es un sistema operativo 
 
  Un sistema operativo (SO) es el software fundamental que gestiona los recursos de hardware de una computadora, 
  actuando como intermediario entre el usuario y las aplicaciones. 
@@ -8,7 +8,7 @@ Qué es un sistema operativo
  y proporcionar una plataforma para que otros programas puedan ejecutarse.
  Sin un SO, un dispositivo electrónico sería inútil, ya que no se podrían utilizar aplicaciones como navegadores web, procesadores de texto o juegos. 
 
-Tipos de sistemas operativos
+## Tipos de sistemas operativos
 
 Los sistemas operativos (SO) se clasifican por su función y entorno,
  incluyendo los de escritorio (Windows, macOS, Linux) para PC, móviles (Android, iOS) para smartphones, 
