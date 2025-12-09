@@ -10,13 +10,13 @@
 
 ## Tipos de sistemas operativos
 
-Los sistemas operativos (SO) se clasifican por su función y entorno,
+ Los sistemas operativos (SO) se clasifican por su función y entorno,
  incluyendo los de escritorio (Windows, macOS, Linux) para PC, móviles (Android, iOS) para smartphones, 
  de servidor para gestión de redes (Windows Server, Linux), embebidos para dispositivos específicos (IoT, routers),
  y de tiempo real (RTOS) para control crítico, además de categorías funcionales como monotarea/multitarea, monousuario/multiusuario,
  y distribuidos/en red, cada uno adaptado a necesidades distintas de procesamiento y gestión de recursos.
 
- Por Entorno y Dispositivo:
+## Por Entorno y Dispositivo:
 
 De Escritorio (PC): Para computadoras personales, con interfaces gráficas robustas. Ejemplos: Windows, macOS, Linux (Ubuntu, Fedora).
  Móviles: Optimizados para pantallas táctiles, batería y sensores en dispositivos portátiles. Ejemplos: Android, iOS.
@@ -24,7 +24,7 @@ De Escritorio (PC): Para computadoras personales, con interfaces gráficas robus
  Embebidos/Integrados: Para dispositivos con recursos limitados, como electrodomésticos, routers, sistemas automotrices. Ejemplos: Android Things, sistemas en IoT.
  Mainframe: Para sistemas de gran capacidad y procesamiento, como IBM z/OS, usados en grandes corporaciones.
 
- Por Funcionalidad y Modo de Operación:
+ ## Por Funcionalidad y Modo de Operación:
 
  Monotarea/Multitarea: Ejecuta una sola tarea o múltiples programas simultáneamente 
  Monousuario/Multiusuario: Permite un solo usuario o varios usuarios simultáneamente, respectivamente (ej. Linux, Windows Server).
@@ -33,7 +33,7 @@ De Escritorio (PC): Para computadoras personales, con interfaces gráficas robus
  Distribuido: Coordina múltiples computadoras para que trabajen como un único sistema.
  Por Lotes (Batch): Ejecuta trabajos en secuencia sin intervención humana directa.
 
- Ejemplos Comunes: 
+ ## Ejemplos Comunes: 
 
  Windows: Dominante en PCs, adaptable a servidores y dispositivos táctiles (Windows Mobile, IoT).
  macOS: Exclusivo de Apple, conocido por su estabilidad y diseño.
